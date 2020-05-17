@@ -1,5 +1,7 @@
 # Giới thiệu
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/1-introduction)
+
 Khi bạn bật một ngọn đèn, bạn đơn giản chỉ muốn đèn hoạt động. Bạn biết bạn cần điện để làm điều đó, nhưng trong thời điểm đấy, chi tiết về cách điện thắp sáng bóng đèn không quan trọng. Bạn có thể chẳng nghĩ đến điện đang được tạo ra trong nhà máy năng lượng, di chuyển qua mạng lưới đường truyền điện áp cao to lớn đến thành phố của bạn, đi qua một trạm giảm áp, và cuối cùng là vào đến nhà bạn.
 
 Kết nối một phích cắm đại diện cho việc điện được truyền tới.

@@ -1,5 +1,7 @@
 # Ích lợi của cloud computing
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing)
+
 Cloud computing phải là cách tiếp cận dịch vụ được ăn cả, ngã về không. Công ty có thể chọn sử dụng đám mây để lưu trữ dữ liệu và thực thi logic dù nhiều, ít, hay vừa đủ để thỏa mãn yêu cầu kinh doanh. Việc làm ăn đang diễn ra có thể chọn chuyển đổi dần dần để tiết kiệm chi phí cơ sở hạ tầng và quản trị (được nhắc đến dưới dạng "lift and shift" - nâng lên và chuyển đổi), trong khi một công ty mới có thể bắt đầu từ đám mây.
 
 Hãy cùng học vài lợi ích hàng đầu của cloud computing.

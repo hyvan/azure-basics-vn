@@ -1,5 +1,7 @@
 # Cloud computing là gì?
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing)
+
 Cloud computing (điện toán đám mây) là thuê tài nguyên như không gian lưu trữ hay chu kỳ CPU (Central Processing Unit - bộ xử lý), trên máy tính của công ty khác. Bạn chỉ trả cho cái bạn dùng. Công ty cung cấp những dịch vụ này được gọi là cloud provider (nhà cung cấp đám mây). Ví dụ một vài nhà cung cấp là Microsoft, Amazon, Google.
 
 Nhà cung cấp đám mây chịu trách nhiệm cho phần cứng hiện hữu cần thiết để thực hiện công việc của bạn, va để giữ cho nó được cập nhật. Dịch vụ đám mây tùy thuộc vào nhà cung cấp. Tuy nhiên, thương thì chúng gồm:

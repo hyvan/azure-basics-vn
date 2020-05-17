@@ -1,5 +1,7 @@
 # Economies of scale - Kinh tế nhờ quy mô
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3b-economies-of-scale)
+
 *Economies of scale* là khả năng thực hiện mọi việc hiệu quả hơn hoặc với chi phí thấp hơn trên mỗi đơn vị khi hoạt động ở quy mô lớn hơn. Lợi thế chi phí này là lợi ích quan trọng trong cloud computing
 
 Các nhà cung cấp đám mây như Microsoft, Google và Amazon là những doanh nghiệp lớn tận dụng lợi ích *economies of scale*. Những nhà cung cấp sau đó có thể đưa phần tiết kiệm cho khách hàng của họ.

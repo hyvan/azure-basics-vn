@@ -1,5 +1,7 @@
 # Chi phí vốn (CapEx) so với chi phí hoạt động (OpEx)
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3c-capex-vs-opex)
+
 Trong quá khứ, các công ty cần phải có được cơ sở vật chất và cơ sở hạ tầng để bắt đầu kinh doanh. Có một chi phí trả trước đáng kể cho phần cứng và cơ sở hạ tầng để bắt đầu hoặc phát triển một doanh nghiệp. Cloud computing cung cấp dịch vụ cho khách hàng mà không cần tốn kém nhiều chi phí hay thời gian lắp đặt thiết bị.
 
 Hai cách tiếp cận đầu tư này được gọi là:

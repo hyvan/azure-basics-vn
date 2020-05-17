@@ -1,5 +1,7 @@
 # Điều khoản và yêu cầu tuân thủ
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3a-compliance)
+
 Khi chọn nhà cung cấp đám mây để lưu trữ các giải pháp của bạn, bạn nên hiểu cách nhà cung cấp đó có thể giúp bạn tuân thủ các quy định và tiêu chuẩn. Một số câu hỏi để hỏi về một nhà cung cấp tiềm năng bao gồm:
 * Nhà cung cấp đám mây tuân thủ như thế nào khi xử lý dữ liệu nhạy cảm?
 * Làm thế nào tuân thủ các dịch vụ được cung cấp bởi nhà cung cấp đám mây?
