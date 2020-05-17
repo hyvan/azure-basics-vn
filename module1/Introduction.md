@@ -16,4 +16,4 @@ Trong module này, bạn sẽ:
 * Khám phá ích lợi của cloud computing
 * Quyết định triển khai mô hình đám mây nào là tốt nhất cho bạn
 
-**Bài tiếp theo: Cloud computing là gì?**
+[**Bài tiếp theo: Cloud computing là gì?**](./WhatIsCloudComputing.md)

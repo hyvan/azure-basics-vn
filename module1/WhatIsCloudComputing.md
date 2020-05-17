@@ -55,3 +55,5 @@ Lơi thế khi lưu trữ dữ liệu trên đám mây là bạn có thể tăng
 # Tóm tắt
 
 Mỗi thương vụ có nhu cầu và yêu cầu khác nhau. Cloud computing thì **linh hoạt** và **tiết kiệm chi phí**, có thể có lợi cho mọi loại hình kinh doanh dù là công ty khởi nghiệp nhỏ hay doanh nghiệp lớn. 
+
+[**Bài tiếp theo: Lợi ích của cloud computing**](BenefitsOfCloudComputing.md)

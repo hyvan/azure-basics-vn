@@ -61,3 +61,5 @@ Hãy cùng nói về digital security. Bạn muốn chỉ người dùng đượ
 ## Tóm lược
 
 Cloud computing giúp việc điều hành doanh nghiệp dễ dàng hơn. Nó có chi phí hiệu quả, khả năng mở rộng, co dãn, hiện tại, đáng tin cậy và an toàn. Điều này có nghĩa là bạn có thể dành nhiều thời gian hơn cho những gì quan trọng và ít thời gian hơn để quản lý các chi tiết cấp thấp.
+
+[**Bài tiếp theo: Điều khoản và yêu cầu tuân thủ**](ComplianceTermsAndRequirments.md)
