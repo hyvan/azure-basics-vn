@@ -6,4 +6,4 @@ Các nhà cung cấp đám mây như Microsoft, Google và Amazon là những do
 
 Những khoản tiết kiệm này thể hiện rõ cho end-user (người dùng cuối) theo một số cách, trong số đó là khả năng mua phần cứng với chi phí thấp hơn. Các nhà cung cấp đám mây cũng có thể thực hiện các thỏa thuận với chính quyền và dịch vụ tiện ích công tại địa phương để tiết kiệm thuế, giảm giá điện cho làm mát và kết nối mạng tốc độ cao giữa các trang web. Các nhà cung cấp đám mây sau đó có thể chuyển các lợi ích này cho end-user dưới dạng giá thấp hơn so với những gì bạn có thể tự mình đạt được.
 
-**Bài tiếp theo: Chi phí vốn (CapEx) so với chi phí hoạt động (OpEx)**
+[**Bài tiếp theo: Chi phí vốn (CapEx) so với chi phí hoạt động (OpEx)**](CapExVSOpEx.md)
