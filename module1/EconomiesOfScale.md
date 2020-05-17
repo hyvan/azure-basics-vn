@@ -1,4 +1,4 @@
-# Economies of scale - Kinh tế của quy mô tăng trưởng
+# Economies of scale - Kinh tế nhờ quy mô
 
 *Economies of scale* là khả năng thực hiện mọi việc hiệu quả hơn hoặc với chi phí thấp hơn trên mỗi đơn vị khi hoạt động ở quy mô lớn hơn. Lợi thế chi phí này là lợi ích quan trọng trong cloud computing
 
