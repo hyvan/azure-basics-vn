@@ -1,5 +1,7 @@
 # Kiểm tra kiến thức của bạn
 
+[Link gốc](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/6-knowledge-check)
+
 1. Thuật ngữ nào trong danh sách dưới đây sẽ được xem là lợi ích của việc sử dụng dịch vụ đám mây?
 
 - [ ] Chi phí không thể đoán trước
@@ -24,3 +26,5 @@
 - [ ] Platform as a Service (PaaS)
 
 - [ ] Software as a Service (SaaS)
+
+[**Kế tiếp: Tóm tắt**](Summary.md)
