@@ -10,15 +10,15 @@ Hai cách tiếp cận đầu tư này được gọi là:
 
 ## Chi phí điện toán CapEx
 
-Một trung tâm dữ liệu tại công ty điển hình bao gồm các chi phí như:
+Một trung tâm dữ liệu tại công ty thường bao gồm các chi phí như:
 
 ### Chi phí máy chủ
 
-Khu vực này bao gồm tất cả các thành phần phần cứng và chi phí hỗ trợ chúng. Khi mua máy chủ, hãy đảm bảo thiết kế khả năng chịu lỗi và dự phòng, chẳng hạn như phân cụm máy chủ, nguồn điện dự phòng và nguồn cung cấp điện liên tục. Khi một máy chủ cần được thay thế hoặc thêm vào một trung tâm dữ liệu, bạn cần phải trả tiền cho máy tính. Điều này có thể ảnh hưởng đến dòng tiền ngay lập tức của bạn vì bạn phải trả tiền trước cho máy chủ.
+Nhóm này bao gồm tất cả các thành phần phần cứng và chi phí hỗ trợ chúng. Khi mua máy chủ, hãy đảm bảo thiết kế khả năng chịu lỗi và dự phòng, chẳng hạn như phân cụm máy chủ, nguồn điện dự phòng và nguồn cung cấp điện liên tục. Khi một máy chủ cần được thay thế hoặc thêm vào một trung tâm dữ liệu, bạn cần phải trả tiền cho máy tính. Điều này có thể ảnh hưởng đến dòng tiền trong tay bạn vì bạn phải trả tiền trước cho máy chủ.
 
 ### Chi phí lưu trữ
 
-Khu vực này bao gồm tất cả các thành phần phần cứng lưu trữ và chi phí hỗ trợ nó. Dựa trên ứng dụng và mức độ chịu lỗi, lưu trữ tập trung có thể tốn kém. Đối với các tổ chức lớn hơn, bạn có thể tạo các tầng lưu trữ trong đó lưu trữ dung sai lớn hơn được sử dụng cho các ứng dụng quan trọng và lưu trữ chi phí thấp hơn được sử dụng cho dữ liệu ưu tiên thấp hơn.
+Nhóm chi phí này bao gồm tất cả các thành phần phần cứng lưu trữ và chi phí hỗ trợ nó. Dựa trên ứng dụng và mức độ chịu lỗi, lưu trữ tập trung có thể tốn kém. Đối với các tổ chức lớn hơn, bạn có thể tạo các tầng lưu trữ trong đó lưu trữ dung sai lớn được sử dụng cho các ứng dụng quan trọng và lưu trữ chi phí thấp được sử dụng cho dữ liệu ở mức ưu tiên thấp.
 
 ### Chi phí mạng
 
@@ -26,19 +26,19 @@ Chi phí mạng bao gồm tất cả các thành phần phần cứng tại ch�
 
 ### Chi phí sao lưu và lưu trữ
 
-Đây là chi phí để sao lưu, sao chép hoặc lưu trữ dữ liệu. Các tùy chọn có thể bao gồm thiết lập bản sao lưu đến hoặc từ đám mây. Có một chi phí trả trước cho phần cứng và chi phí bổ sung cho bảo trì dự phòng và hàng tiêu dùng như băng.
+Đây là chi phí để sao lưu, sao chép hoặc lưu trữ dữ liệu. Các tùy chọn có thể bao gồm thiết lập bản sao lưu đến hoặc từ đám mây. Có một chi phí trả trước cho phần cứng và chi phí bổ sung cho bảo trì dự phòng và hàng tiêu dùng như băng đĩa.
 
 ### Chi phí tổ chức liên tục và khắc phục thảm họa
 
-Cùng với khả năng chịu lỗi và dự phòng máy chủ, bạn cần lập kế hoạch về cách khắc phục sau thảm họa và tiếp tục vận hành. Kế hoạch của bạn nên bao gồm việc tạo ra một trang web khắc phục thảm họa. Nó cũng có thể bao gồm các máy phát điện dự phòng. Hầu hết trong số này là chi phí trả trước, đặc biệt nếu bạn xây dựng một trang web khắc phục thảm họa, nhưng có thêm chi phí liên tục cho cơ sở hạ tầng và bảo trì.
+Cùng với khả năng chịu lỗi và dự phòng máy chủ, bạn cần lập kế hoạch về cách khắc phục sau thảm họa và tiếp tục vận hành. Kế hoạch của bạn nên bao gồm việc tạo ra một trang web khắc phục thảm họa. Nó cũng có thể bao gồm các máy phát điện dự phòng. Hầu hết trong số này là chi phí trả trước, đặc biệt nếu bạn xây dựng một trang web khắc phục thảm họa, nhưng có thêm chi phí giữ tính liên tục cho cơ sở hạ tầng và bảo trì.
 
 ### Chi phí cơ sở hạ tầng trung tâm dữ liệu
 
-Đây là các chi phí cho thiết bị xây dựng và xây dựng, cũng như chi phí cải tạo và tu sửa trong tương lai có thể phát sinh khi nhu cầu tăng lên. Ngoài ra, cơ sở hạ tầng này phải chịu chi phí vận hành cho điện, không gian sàn, làm mát và bảo trì tòa nhà.
+Đây là các chi phí cho thiết bị và quá trình xây dựng, cũng như chi phí cải tạo và tu sửa trong tương lai có thể phát sinh khi nhu cầu tăng lên. Ngoài ra, cơ sở hạ tầng này phải chịu chi phí vận hành cho điện, không gian sàn, làm mát và bảo trì tòa nhà.
 
 ### Nhân viên kỹ thuật
 
-Mặc dù không phải là một khoản chi đầu tư, nhân sự cần thiết để làm việc trên cơ sở hạ tầng của bạn là dành riêng cho các trung tâm dữ liệu tại chỗ. Bạn sẽ cần chuyên môn kỹ thuật và lực lượng lao động để cài đặt, triển khai và quản lý các hệ thống trong trung tâm dữ liệu và tại trang web khắc phục thảm họa.
+Mặc dù không phải là một khoản chi đầu tư, nhân sự cần thiết và dành riêng để làm việc trên cơ sở hạ tầng của bạn cho các trung tâm dữ liệu tại chỗ. Bạn sẽ cần chuyên môn kỹ thuật và lực lượng lao động để cài đặt, triển khai và quản lý các hệ thống trong trung tâm dữ liệu và tại trang web khắc phục thảm họa.
 
 ## Chi phí cloud computing OpEx
 
@@ -46,7 +46,7 @@ Với điện toán đám mây, nhiều chi phí liên quan đến trung tâm d�
 
 ### Cho thuê phần mềm và các tính năng tùy chỉnh
 
-Sử dụng mô hình trả tiền cho mỗi lần sử dụng đòi hỏi phải chủ động quản lý đăng ký của bạn để đảm bảo người dùng không lạm dụng các dịch vụ và các tài khoản được cung cấp đang được sử dụng và không bị lãng phí. Ngay khi nhà cung cấp quy định tài nguyên, thanh toán bắt đầu. Bạn có trách nhiệm trả lại tài nguyên khi chúng không được sử dụng để có thể giảm thiểu chi phí.
+Sử dụng mô hình $pay-as-you-go$ (dùng bao nhiêu trả bấy nhiêu) đòi hỏi phải chủ động quản lý đăng ký của bạn để đảm bảo người dùng không lạm dụng các dịch vụ và các tài khoản được cung cấp đang được sử dụng và không bị lãng phí. Ngay khi nhà cung cấp quy định tài nguyên, thanh toán bắt đầu. Bạn có trách nhiệm trả lại tài nguyên khi chúng không được sử dụng để có thể giảm thiểu chi phí.
 
 ### Phí mở rộng dựa trên việc sử dụng / nhu cầu thay vì phần cứng hoặc dung lượng cố định.
 
@@ -54,7 +54,7 @@ Sử dụng mô hình trả tiền cho mỗi lần sử dụng đòi hỏi phả
 
 ### Thanh toán ở cấp độ người dùng hoặc tổ chức.
 
-Mô hình đăng ký (dùng bao nhiêu trả bấy nhiêu) là một phương thức thanh toán điện toán được thiết kế cho cả tổ chức và người dùng. Tổ chức hoặc người dùng được nhận hóa đơn cho các dịch vụ sử dụng, thường trên cơ sở định kỳ. Bạn có thể mở rộng quy mô, tùy chỉnh và cung cấp tài nguyên tính toán, bao gồm phần mềm, lưu trữ và nền tảng phát triển. Ví dụ: khi sử dụng dịch vụ đám mây chuyên dụng, bạn có thể trả tiền dựa trên phần cứng và mức sử dụng của máy chủ.
+Mô hình $subscription$ - đăng ký ($pay-as-you-go$) là một phương thức thanh toán điện toán được thiết kế cho cả tổ chức và cá nhân. Tổ chức hoặc cá nhân được nhận hóa đơn cho các dịch vụ sử dụng, thường trên cơ sở định kỳ. Bạn có thể mở rộng quy mô, tùy chỉnh và cung cấp tài nguyên tính toán, bao gồm phần mềm, lưu trữ và nền tảng phát triển. Ví dụ: khi sử dụng dịch vụ đám mây chuyên dụng, bạn có thể trả tiền dựa trên phần cứng và mức sử dụng của máy chủ.
 
 ## Lợi ích của CapEx
 
@@ -68,6 +68,6 @@ Nhu cầu và tăng trưởng có thể không dự đoán được và có th�
 
 Với mô hình OpEx, các công ty muốn thử sản phẩm hoặc dịch vụ mới không cần đầu tư vào thiết bị. Thay vào đó, họ trả nhiều hoặc ít cho cơ sở hạ tầng theo yêu cầu.
 
-OpEx đặc biệt thu hút nếu nhu cầu biến động hoặc không xác định. Các dịch vụ đám mây thường được cho là *agile* (nhanh nhẹn). Sự nhanh nhẹn của đám mây là khả năng thay đổi nhanh chóng cơ sở hạ tầng CNTT để thích ứng với nhu cầu phát triển của doanh nghiệp. Ví dụ: nếu dịch vụ của bạn đạt đỉnh một tháng, bạn có thể mở rộng quy mô theo yêu cầu và thanh toán hóa đơn lớn hơn cho tháng đó. Nếu tháng sau nhu cầu giảm, bạn có thể giảm tài nguyên đã sử dụng và được tính phí ít hơn. Sự nhanh nhẹn này cho phép bạn quản lý chi phí của mình một cách linh hoạt, tối ưu hóa chi tiêu khi nhu cầu thay đổi.
+OpEx đặc biệt thu hút nếu nhu cầu biến động hoặc không xác định. Các dịch vụ đám mây thường mang tính $agile$ (nhanh nhẹn). Sự nhanh nhẹn của đám mây là khả năng thay đổi nhanh chóng cơ sở hạ tầng CNTT để thích ứng với nhu cầu phát triển của doanh nghiệp. Ví dụ: nếu dịch vụ của bạn đạt đỉnh một tháng, bạn có thể mở rộng quy mô theo yêu cầu và thanh toán hóa đơn lớn hơn cho tháng đó. Nếu tháng sau nhu cầu giảm, bạn có thể giảm tài nguyên đã sử dụng và được tính phí ít hơn. Sự nhanh nhẹn này cho phép bạn quản lý chi phí của mình một cách linh hoạt, tối ưu hóa chi tiêu khi nhu cầu thay đổi.
 
 [**Bài tiếp theo: Các mô hình triển khai đám mây**](CloudDeploymentModels.md)
